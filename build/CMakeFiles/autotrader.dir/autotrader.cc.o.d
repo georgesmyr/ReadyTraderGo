@@ -1,5 +1,5 @@
 CMakeFiles/autotrader.dir/autotrader.cc.o: \
-  /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/autotrader.cc \
+  /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/autotrader.cc \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/array \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__config \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__config_site \
@@ -840,7 +840,7 @@ CMakeFiles/autotrader.dir/autotrader.cc.o: \
   /usr/local/include/boost/move/adl_move_swap.hpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/deque \
   /usr/local/include/boost/circular_buffer/space_optimized.hpp \
-  /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/libs/ready_trader_go/logging.h \
+  /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/libs/ready_trader_go/logging.h \
   /usr/local/include/boost/log/keywords/channel.hpp \
   /usr/local/include/boost/parameter/keyword.hpp \
   /usr/local/include/boost/parameter/aux_/tag.hpp \
@@ -1239,7 +1239,7 @@ CMakeFiles/autotrader.dir/autotrader.cc.o: \
   /usr/local/include/boost/log/keywords/severity.hpp \
   /usr/local/include/boost/log/sources/channel_feature.hpp \
   /usr/local/include/boost/log/attributes/mutable_constant.hpp \
-  /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/autotrader.h \
+  /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/autotrader.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/unordered_set \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__functional/is_transparent.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__hash_table \
@@ -1726,7 +1726,7 @@ CMakeFiles/autotrader.dir/autotrader.cc.o: \
   /usr/local/include/boost/asio/writable_pipe.hpp \
   /usr/local/include/boost/asio/write_at.hpp \
   /usr/local/include/boost/asio/impl/write_at.hpp \
-  /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/libs/ready_trader_go/baseautotrader.h \
-  /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/libs/ready_trader_go/connectivitytypes.h \
-  /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/libs/ready_trader_go/protocol.h \
-  /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/libs/ready_trader_go/types.h
+  /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/libs/ready_trader_go/baseautotrader.h \
+  /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/libs/ready_trader_go/connectivitytypes.h \
+  /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/libs/ready_trader_go/protocol.h \
+  /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/libs/ready_trader_go/types.h

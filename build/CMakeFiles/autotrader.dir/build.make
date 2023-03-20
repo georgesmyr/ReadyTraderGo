@@ -53,10 +53,10 @@ RM = /usr/local/Cellar/cmake/3.26.0/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo
+CMAKE_SOURCE_DIR = /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/build
+CMAKE_BINARY_DIR = /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/autotrader.dir/depend.make
@@ -70,32 +70,32 @@ include CMakeFiles/autotrader.dir/progress.make
 include CMakeFiles/autotrader.dir/flags.make
 
 CMakeFiles/autotrader.dir/main.cc.o: CMakeFiles/autotrader.dir/flags.make
-CMakeFiles/autotrader.dir/main.cc.o: /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/main.cc
+CMakeFiles/autotrader.dir/main.cc.o: /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/main.cc
 CMakeFiles/autotrader.dir/main.cc.o: CMakeFiles/autotrader.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/autotrader.dir/main.cc.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/autotrader.dir/main.cc.o -MF CMakeFiles/autotrader.dir/main.cc.o.d -o CMakeFiles/autotrader.dir/main.cc.o -c /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/main.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/autotrader.dir/main.cc.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/autotrader.dir/main.cc.o -MF CMakeFiles/autotrader.dir/main.cc.o.d -o CMakeFiles/autotrader.dir/main.cc.o -c /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/main.cc
 
 CMakeFiles/autotrader.dir/main.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/autotrader.dir/main.cc.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/main.cc > CMakeFiles/autotrader.dir/main.cc.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/main.cc > CMakeFiles/autotrader.dir/main.cc.i
 
 CMakeFiles/autotrader.dir/main.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/autotrader.dir/main.cc.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/main.cc -o CMakeFiles/autotrader.dir/main.cc.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/main.cc -o CMakeFiles/autotrader.dir/main.cc.s
 
 CMakeFiles/autotrader.dir/autotrader.cc.o: CMakeFiles/autotrader.dir/flags.make
-CMakeFiles/autotrader.dir/autotrader.cc.o: /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/autotrader.cc
+CMakeFiles/autotrader.dir/autotrader.cc.o: /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/autotrader.cc
 CMakeFiles/autotrader.dir/autotrader.cc.o: CMakeFiles/autotrader.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/autotrader.dir/autotrader.cc.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/autotrader.dir/autotrader.cc.o -MF CMakeFiles/autotrader.dir/autotrader.cc.o.d -o CMakeFiles/autotrader.dir/autotrader.cc.o -c /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/autotrader.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/autotrader.dir/autotrader.cc.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/autotrader.dir/autotrader.cc.o -MF CMakeFiles/autotrader.dir/autotrader.cc.o.d -o CMakeFiles/autotrader.dir/autotrader.cc.o -c /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/autotrader.cc
 
 CMakeFiles/autotrader.dir/autotrader.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/autotrader.dir/autotrader.cc.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/autotrader.cc > CMakeFiles/autotrader.dir/autotrader.cc.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/autotrader.cc > CMakeFiles/autotrader.dir/autotrader.cc.i
 
 CMakeFiles/autotrader.dir/autotrader.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/autotrader.dir/autotrader.cc.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/autotrader.cc -o CMakeFiles/autotrader.dir/autotrader.cc.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/autotrader.cc -o CMakeFiles/autotrader.dir/autotrader.cc.s
 
 # Object files for target autotrader
 autotrader_OBJECTS = \
@@ -127,7 +127,7 @@ autotrader: /usr/local/lib/libboost_filesystem-mt.dylib
 autotrader: /usr/local/lib/libboost_atomic-mt.dylib
 autotrader: /usr/local/lib/libboost_chrono-mt.dylib
 autotrader: CMakeFiles/autotrader.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable autotrader"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable autotrader"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/autotrader.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -139,6 +139,6 @@ CMakeFiles/autotrader.dir/clean:
 .PHONY : CMakeFiles/autotrader.dir/clean
 
 CMakeFiles/autotrader.dir/depend:
-	cd /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/build /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/build /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/build/CMakeFiles/autotrader.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/build /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/build /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/build/CMakeFiles/autotrader.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/autotrader.dir/depend
 

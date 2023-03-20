@@ -1,6 +1,6 @@
 libs/ready_trader_go/CMakeFiles/ready_trader_go_lib.dir/baseautotrader.cc.o: \
-  /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/libs/ready_trader_go/baseautotrader.cc \
-  /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/libs/ready_trader_go/baseautotrader.h \
+  /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/libs/ready_trader_go/baseautotrader.cc \
+  /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/libs/ready_trader_go/baseautotrader.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/array \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__config \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__config_site \
@@ -701,11 +701,11 @@ libs/ready_trader_go/CMakeFiles/ready_trader_go_lib.dir/baseautotrader.cc.o: \
   /usr/local/include/boost/asio/impl/system_context.ipp \
   /usr/local/include/boost/asio/executor_work_guard.hpp \
   /usr/local/include/boost/asio/impl/io_context.ipp \
-  /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/libs/ready_trader_go/connectivitytypes.h \
-  /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/libs/ready_trader_go/protocol.h \
-  /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/libs/ready_trader_go/types.h \
-  /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/libs/ready_trader_go/error.h \
-  /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/libs/ready_trader_go/logging.h \
+  /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/libs/ready_trader_go/connectivitytypes.h \
+  /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/libs/ready_trader_go/protocol.h \
+  /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/libs/ready_trader_go/types.h \
+  /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/libs/ready_trader_go/error.h \
+  /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/libs/ready_trader_go/logging.h \
   /usr/local/include/boost/log/keywords/channel.hpp \
   /usr/local/include/boost/parameter/keyword.hpp \
   /usr/local/include/boost/parameter/aux_/tag.hpp \

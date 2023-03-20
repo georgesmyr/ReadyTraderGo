@@ -1,8 +1,8 @@
-/Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/build/CMakeFiles/autotrader.dir
-/Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/build/CMakeFiles/edit_cache.dir
-/Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/build/CMakeFiles/rebuild_cache.dir
-/Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/build/libs/CMakeFiles/edit_cache.dir
-/Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/build/libs/CMakeFiles/rebuild_cache.dir
-/Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/build/libs/ready_trader_go/CMakeFiles/ready_trader_go_lib.dir
-/Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/build/libs/ready_trader_go/CMakeFiles/edit_cache.dir
-/Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/build/libs/ready_trader_go/CMakeFiles/rebuild_cache.dir
+/Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/build/CMakeFiles/autotrader.dir
+/Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/build/CMakeFiles/edit_cache.dir
+/Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/build/CMakeFiles/rebuild_cache.dir
+/Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/build/libs/CMakeFiles/edit_cache.dir
+/Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/build/libs/CMakeFiles/rebuild_cache.dir
+/Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/build/libs/ready_trader_go/CMakeFiles/ready_trader_go_lib.dir
+/Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/build/libs/ready_trader_go/CMakeFiles/edit_cache.dir
+/Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/build/libs/ready_trader_go/CMakeFiles/rebuild_cache.dir

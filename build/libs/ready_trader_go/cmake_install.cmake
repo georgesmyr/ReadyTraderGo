@@ -1,4 +1,4 @@
-# Install script for directory: /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/libs/ready_trader_go
+# Install script for directory: /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/libs/ready_trader_go
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

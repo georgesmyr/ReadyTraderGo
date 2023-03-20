@@ -1,5 +1,5 @@
 libs/ready_trader_go/CMakeFiles/ready_trader_go_lib.dir/application.cc.o: \
-  /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/libs/ready_trader_go/application.cc \
+  /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/libs/ready_trader_go/application.cc \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/csignal \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__config \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__config_site \
@@ -2079,7 +2079,7 @@ libs/ready_trader_go/CMakeFiles/ready_trader_go_lib.dir/application.cc.o: \
   /usr/local/include/boost/property_tree/json_parser/detail/wide_encoding.hpp \
   /usr/local/include/boost/property_tree/json_parser/detail/standard_callbacks.hpp \
   /usr/local/include/boost/property_tree/json_parser/detail/write.hpp \
-  /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/libs/ready_trader_go/application.h \
+  /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/libs/ready_trader_go/application.h \
   /usr/local/include/boost/asio/io_context.hpp \
   /usr/local/include/boost/asio/detail/config.hpp \
   /usr/local/include/boost/asio/async_result.hpp \
@@ -2644,8 +2644,8 @@ libs/ready_trader_go/CMakeFiles/ready_trader_go_lib.dir/application.cc.o: \
   /usr/local/include/boost/log/sinks/bounded_fifo_queue.hpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/queue \
   /usr/local/include/boost/log/sinks/drop_on_overflow.hpp \
-  /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/libs/ready_trader_go/error.h \
-  /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/CPPReadyTraderGo/libs/ready_trader_go/logging.h \
+  /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/libs/ready_trader_go/error.h \
+  /Users/georgesmyridis/Desktop/Trading/Algorithms_Finance/Ready_Trader_Go/GitReadyTraderGo/libs/ready_trader_go/logging.h \
   /usr/local/include/boost/log/keywords/channel.hpp \
   /usr/local/include/boost/log/sources/global_logger_storage.hpp \
   /usr/local/include/boost/log/detail/singleton.hpp \
